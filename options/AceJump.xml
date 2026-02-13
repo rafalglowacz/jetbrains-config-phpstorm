@@ -1,6 +1,6 @@
 <application>
   <component name="AceConfig">
-    <option name="allowedChars" value="abcdefghijklmnopqrstuvwxyz" />
+    <option name="allowedChars" value="abcdefghijklmnoprstuvwxyz" />
     <option name="definitionModeColor" value="-9452033" />
     <option name="jumpEndModeColor" value="-13375606" />
     <option name="jumpModeColor" value="-1" />
@@ -8,6 +8,6 @@
     <option name="tagBackgroundColor" value="-4276540" />
     <option name="tagForegroundColor" value="-16777216" />
     <option name="targetModeColor" value="-18688" />
-    <option name="textHighlightColor" value="-13022376" />
+    <option name="textHighlightColor" value="-1" />
   </component>
 </application>
