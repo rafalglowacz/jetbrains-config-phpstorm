@@ -1,0 +1,7 @@
+<templateSet group="SQL">
+  <template name="exa" value="EXPLAIN ANALYZE" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
