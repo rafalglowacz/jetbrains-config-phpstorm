@@ -215,7 +215,9 @@
   </action>
   <action id="HideSideWindows" />
   <action id="InsertInlineCompletionAction">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="InsertNextEditAction">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="LocalHistory">
