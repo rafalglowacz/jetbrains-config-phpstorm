@@ -249,6 +249,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
