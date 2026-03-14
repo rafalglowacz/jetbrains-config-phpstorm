@@ -1,5 +1,6 @@
 *
 !.gitignore
+!codestyles
 !colors
 !keymaps/
 !keymaps/**
