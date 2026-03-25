@@ -12,6 +12,7 @@
   <action id="AceTargetAction" />
   <action id="AceWordAction">
     <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="ActivateAIAssistantToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
