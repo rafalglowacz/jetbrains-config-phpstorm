@@ -45,6 +45,7 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="meta alt t" />
@@ -135,7 +136,7 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="EditorSwapSelectionBoundaries">
-    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="EditorTextEndWithSelection">
     <keyboard-shortcut first-keystroke="shift meta end" />
@@ -165,6 +166,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta alt minus" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
@@ -199,9 +201,6 @@
   <action id="GoToTab8">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
-  </action>
   <action id="GotoNextBookmarkInEditor">
     <keyboard-shortcut first-keystroke="shift meta alt down" />
   </action>
@@ -215,6 +214,7 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="HideSideWindows" />
+  <action id="ImplementMethods" />
   <action id="InsertInlineCompletionAction">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
