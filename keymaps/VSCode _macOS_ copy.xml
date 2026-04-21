@@ -79,8 +79,18 @@
   <action id="Console.TableResult.Transpose">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="CopyAbsolutePath">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="shift p" />
+  </action>
+  <action id="CopyPathFromRepositoryRootProvider">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
+  </action>
   <action id="CopyPathWithLineNumber">
     <keyboard-shortcut first-keystroke="shift meta alt l" />
+  </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
   <action id="DSM.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
