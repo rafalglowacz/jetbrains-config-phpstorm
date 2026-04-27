@@ -274,8 +274,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
   </action>
   <action id="RunToCursor">
-    <keyboard-shortcut first-keystroke="alt f9" />
-    <mouse-shortcut keystroke="Force touch" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Scratch.ShowFilesPopup">
